@@ -1,0 +1,56 @@
+place pa 10 11
+place pb 20 22
+place Adelaide 200 200
+place Ararat 0 0
+place Hamilton 200 200
+place Avoca 0 0
+place Ballarat 0 0
+place Bordertown 150 250
+place StArnaud 400 400
+place Colac 0 0
+place Geelong 100 100
+place Kingston 200 200
+place Horsham 0 0
+place Keith 0 0
+place Melbourne 100 100
+place Morwell 100 100
+place Yarram 0 0
+place MtGambier 100 100
+place Warnambool 100 100
+place Ouyen 0 0
+place Pinarroo 0 0
+place Portland 0 0
+place Sale 250 250
+place TailemBend 0 0
+road pa name 100 pb
+road Ballarat Western8 113 Melbourne
+road Colac Princes1 74 Geelong
+road Geelong Princes1 74 Melbourne
+road Hamilton Henty 130 Horsham
+road Ballarat Glenelg 184 Hamilton
+road Geelong Hamilton 226 Hamilton
+road Colac Princes1 126 Warnambool
+road Ouyen Ouyen 137 Pinarroo
+road Ouyen Ouyen 222 StArnaud
+road Pinarroo - 146 TailemBend
+road Portland Princes1 100 Warnambool
+road Bordertown Western8 157 Horsham
+road Horsham Wimmera 109 StArnaud
+road Adelaide Princes1 107 TailemBend
+road Bordertown Western8 45 Keith
+road Ararat Pyrenees 63 Avoca
+road Ararat Western8 95 Horsham
+road Ararat Western8 92 Ballarat
+road Avoca Sunrasia 63 StArnaud
+road Avoca Sunrasia 71 Ballarat
+road Keith Riddoch 213 MtGambier
+road Kingston Princes1 199 TailemBend
+road Kingston Princes1 157 MtGambier
+road Melbourne Princes1 116 Morwell
+road Morwell Princes1 63 Sale
+road MtGambier Princes1 115 Portland
+road Sale Gippsland 72 Yarram
+road Melbourne Gippsland 215 Yarram
+road Keith Western8 137 TailemBend
+start pb
+end Adelaide

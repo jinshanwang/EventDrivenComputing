@@ -1,0 +1,53 @@
+place Adelaide 346 41
+place Ararat 322 450
+place Hamilton 595 47
+place Avoca 476 122
+place Ballarat 709 208
+place Bordertown 58 501
+place StArnaud 859 452
+place Colac 846 291
+place Geelong 55 281
+place Kingston 518 227
+place Horsham 461 443
+place Keith 458 27
+place Melbourne 165 41
+place Morwell 52 190
+place Yarram 544 420
+place MtGambier 276 135
+place Warnambool 645 354
+place Ouyen 735 487
+place Pinarroo 742 309
+place Portland 204 334
+place Sale 819 85
+place TailemBend 677 118
+road Ballarat Western8 113 Melbourne
+road Colac Princes1 74 Geelong
+road Geelong Princes1 74 Melbourne
+road Hamilton Henty 130 Horsham
+road Ballarat Glenelg 184 Hamilton
+road Geelong Hamilton 226 Hamilton
+road Colac Princes1 126 Warnambool
+road Ouyen Ouyen 137 Pinarroo
+road Ouyen Ouyen 222 StArnaud
+road Pinarroo - 146 TailemBend
+road Portland Princes1 100 Warnambool
+road Bordertown Western8 157 Horsham
+road Horsham Wimmera 109 StArnaud
+road Adelaide Princes1 107 TailemBend
+road Bordertown Western8 45 Keith
+road Ararat Pyrenees 63 Avoca
+road Ararat Western8 95 Horsham
+road Ararat Western8 92 Ballarat
+road Avoca Sunrasia 63 StArnaud
+road Avoca Sunrasia 71 Ballarat
+road Keith Riddoch 213 MtGambier
+road Kingston Princes1 199 TailemBend
+road Kingston Princes1 157 MtGambier
+road Melbourne Princes1 116 Morwell
+road Morwell Princes1 63 Sale
+road MtGambier Princes1 115 Portland
+road Sale Gippsland 72 Yarram
+road Melbourne Gippsland 215 Yarram
+road Keith Western8 137 TailemBend
+start Melbourne
+end Adelaide

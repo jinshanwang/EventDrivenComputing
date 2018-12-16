@@ -1,0 +1,10 @@
+place Adelaide 52 239
+place StArnaud 417 454
+place Morwell 326 57
+place Tianjing 709 241
+place NewYork 593 96
+road Adelaide Princes1 107 StArnaud
+road Morwell Princes1 63 StArnaud
+road Adelaide Princes1 126 Morwell
+start Adelaide
+end Morwell
